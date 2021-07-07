@@ -1,0 +1,110 @@
+body {
+  font-family: "popins", sans-serif;
+  margin: 0px;
+}
+.header {
+  background-color: #2bed65;
+  color: white;
+  padding-left: 50px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.h-eliment {
+  padding-right: 80px;
+  color: black;
+  font-size: 25px;
+}
+h1 {
+  font-size: 70px;
+  color: rgb(131, 99, 99);
+}
+h2 {
+  font-size: 50px;
+  color: rgb(223, 1, 1);
+}
+span {
+  color: #ff6e3a;
+}
+.write-area {
+  padding-top: 100px;
+  padding-left: 6%;
+}
+.write {
+  margin-top: 100px;
+  margin-bottom: 70px;
+  color: rgb(131, 99, 99);
+}
+.flexible-container {
+  display: flex;
+  margin-bottom: 100px;
+}
+.half-width {
+  width: 50%;
+}
+img {
+  width: 100%;
+}
+.image-area {
+  padding-top: 10%;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(red, orange);
+  padding: 30px 60px;
+  margin-top: 100px;
+  color: white;
+  font-weight: 800;
+  border-radius: 50px;
+}
+.full-bg {
+  background-image: url(images/frame1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10%;
+}
+.sceond-img {
+  margin-top: 100px;
+}
+.blue-color {
+  color: blue;
+}
+.bg-image {
+  background-image: url(images/food1.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.text-center {
+  text-align: center;
+}
+.col-3-width {
+  width: 33.33%;
+}
+.recipies-area {
+  margin: 5%;
+}
+.recipies-item {
+  margin: 2%;
+  padding: 1%;
+  width: 40%;
+  border-radius: 10px;
+  box-shadow: 10px 10px 30px gray;
+}
+.recipies-item-image {
+  margin: 5%;
+}
+.recipies-item-image img {
+  width: 100%;
+}
+.recipies-subscribers {
+  margin: 2%;
+  padding: 1%;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 10px 10px 30px gray;
+}
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
